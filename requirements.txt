@@ -1,7 +1,9 @@
-scrapy
-bs4
+Scrapy==2.11.2
+bs4==0.0.2
 transformers==4.45.2
 huggingface-hub==0.25.2
-pandas
+pandas==2.2.3
 gradio==5.0.1
 nltk==3.9.1
+spacy==3.8.2
+pyvis==0.3.2
