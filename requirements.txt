@@ -7,3 +7,5 @@ gradio==5.0.1
 nltk==3.9.1
 spacy==3.8.2
 pyvis==0.3.2
+evaluate==0.4.3
+python-dotenv==1.0.1
